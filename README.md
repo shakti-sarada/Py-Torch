@@ -114,6 +114,6 @@ Once installed, you can start exploring PyTorch's extensive documentation, which
 If you're looking to deepen your understanding of PyTorch and its applications, the following YouTube Playlist is an excellent resource. It covers a wide range of topics, from the basics of PyTorch to advanced deep learning techniques, making it suitable for both beginners and experienced practitioners.
 
 # 🔗 References🔗 References
-PyTorch Official Website
-PyTorch Documentation
-YouTube PyTorch Tutorial Series
+[**PyTorch Official Website**](https://pytorch.org)
+[**PyTorch Documentation**](https://pytorch.org/docs/)
+[**YouTube PyTorch Tutorial Series**](https://www.youtube.com/results?search_query=pytorch+tutorial)
