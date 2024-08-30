@@ -115,5 +115,7 @@ If you're looking to deepen your understanding of PyTorch and its applications, 
 
 # 🔗 References🔗 References
 [**PyTorch Official Website**](https://pytorch.org)
+
 [**PyTorch Documentation**](https://pytorch.org/docs/)
+
 [**YouTube PyTorch Tutorial Series**](https://www.youtube.com/results?search_query=pytorch+tutorial)
