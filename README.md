@@ -106,7 +106,7 @@ The static nature of TensorFlow’s computational graph can be restrictive for r
 # 🚀 Getting Started with PyTorch
 To get started with PyTorch, you can install it via pip, along with torchvision and torchaudio for computer vision and audio processing tasks, respectively:
 
-pip install torch torchvision torchaudio
+### pip install torch torchvision torchaudio
 
 Once installed, you can start exploring PyTorch's extensive documentation, which provides comprehensive guides and tutorials on building various types of deep learning models. Visit the official PyTorch website to access these resources.
 
